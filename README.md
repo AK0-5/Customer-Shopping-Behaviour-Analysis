@@ -17,15 +17,14 @@ key insights through an interactive dashboard.
 - Handled missing values and duplicates
 - Performed exploratory data analysis to identify trends
 
-![Python EDA](screenshots/python_eda.png)
+![Python EDA]
 
 ## 2. SQL – Data Analysis
 - Imported cleaned data into SQL
 - Performed aggregations and business queries
 - Analyzed sales, customer behavior, and product performance
 
-![SQL Output](screenshots/sql_query_output.png)
-
+![SQL Output]
 ### 3. Power BI – Dashboard
 - Built an interactive dashboard
 - Created KPIs and slicers for filtering
