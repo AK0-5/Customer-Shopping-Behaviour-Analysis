@@ -1,4 +1,4 @@
-# Customer Shopping Behaviour Analysis
+<img width="1118" height="522" alt="image" src="https://github.com/user-attachments/assets/7114d750-b59c-493f-ac78-37f3fc003660" /># Customer Shopping Behaviour Analysis
 
 ## Project Overview
 This project analyzes customer shopping behavior using Python, SQL, and Power BI.
@@ -10,22 +10,19 @@ key insights through an interactive dashboard.
 - SQL
 - Power BI
 
-## Project Workflow
+ (Project Workflow)
 
 ## 1. Python – Data Cleaning & EDA
 - Loaded and cleaned customer shopping data
 - Handled missing values and duplicates
 - Performed exploratory data analysis to identify trends
 
-![Python EDA]
-
 ## 2. SQL – Data Analysis
 - Imported cleaned data into SQL
 - Performed aggregations and business queries
 - Analyzed sales, customer behavior, and product performance
 
-![SQL Output]
-### 3. Power BI – Dashboard
+## 3. Power BI – Dashboard
 - Built an interactive dashboard
 - Created KPIs and slicers for filtering
 - Visualized customer and sales insights
