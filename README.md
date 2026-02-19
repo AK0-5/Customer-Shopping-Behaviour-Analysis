@@ -31,10 +31,10 @@ key insights through an interactive dashboard.
 - Created KPIs and slicers for filtering
 - Visualized customer and sales insights
 
-![Power BI Dashboard](<img width="1113" height="520" alt="image" src="https://github.com/user-attachments/assets/f1573b4d-8f73-44e6-ad17-297f859c635e" />
+(<img width="1113" height="520" alt="image" src="https://github.com/user-attachments/assets/f1573b4d-8f73-44e6-ad17-297f859c635e" />
 )
-<img width="1109" height="516" alt="image" src="https://github.com/user-attachments/assets/82e0160d-4b30-49cf-a949-78a8c4f96a31" />
-<img width="1109" height="516" alt="image" src="https://github.com/user-attachments/assets/30769543-16cb-4eba-8f84-10dbab2e181c" />
+(<img width="1109" height="516" alt="image" src="https://github.com/user-attachments/assets/82e0160d-4b30-49cf-a949-78a8c4f96a31" />)
+(<img width="1109" height="516" alt="image" src="https://github.com/user-attachments/assets/30769543-16cb-4eba-8f84-10dbab2e181c" />)
 
 ## Key Insights
 - Identified top product categories by revenue
