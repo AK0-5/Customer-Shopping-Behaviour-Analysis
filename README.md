@@ -1,4 +1,4 @@
-<img width="1118" height="522" alt="image" src="https://github.com/user-attachments/assets/7114d750-b59c-493f-ac78-37f3fc003660" /># Customer Shopping Behaviour Analysis
+Customer Shopping Behaviour Analysis
 
 ## Project Overview
 This project analyzes customer shopping behavior using Python, SQL, and Power BI.
