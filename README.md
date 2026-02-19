@@ -12,14 +12,14 @@ key insights through an interactive dashboard.
 
 ## Project Workflow
 
-### 1. Python – Data Cleaning & EDA
+## 1. Python – Data Cleaning & EDA
 - Loaded and cleaned customer shopping data
 - Handled missing values and duplicates
 - Performed exploratory data analysis to identify trends
 
 ![Python EDA](screenshots/python_eda.png)
 
-### 2. SQL – Data Analysis
+## 2. SQL – Data Analysis
 - Imported cleaned data into SQL
 - Performed aggregations and business queries
 - Analyzed sales, customer behavior, and product performance
