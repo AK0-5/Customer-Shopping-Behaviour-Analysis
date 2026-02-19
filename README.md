@@ -32,7 +32,7 @@ key insights through an interactive dashboard.
 - Visualized customer and sales insights
 
 <img width="1125" height="527" alt="image" src="https://github.com/user-attachments/assets/a3ac018b-c0d6-4acf-b68e-095d688ea076" />
-<img width="1109" height="516" alt="image" src="https://github.com/user-attachments/assets/82e0160d-4b30-49cf-a949-78a8c4f96a31" />
+<img width="1118" height="522" alt="image" src="https://github.com/user-attachments/assets/cfcd8edd-908d-43ed-8312-dd4f23e9ceea" />
 <img width="1109" height="516" alt="image" src="https://github.com/user-attachments/assets/30769543-16cb-4eba-8f84-10dbab2e181c" />
 
 ## Key Insights
